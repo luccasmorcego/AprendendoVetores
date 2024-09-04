@@ -29,5 +29,7 @@ public class ExemploVetores {
         Scanner entrada = new Scanner(System.in);
         nomes[0] = entrada.next();
         System.out.println("O primeiro nome é:" + nomes[0]);
+
+        double[] valores = {5.5,10.9,99};
     }
 }
