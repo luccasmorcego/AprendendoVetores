@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd9a5939-d8a5-4352-93ee-148a931f4f03" name="Changes" comment="save">
-      <change afterPath="$PROJECT_DIR$/src/Vetores1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vetores2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vetores3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vetores4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vetores5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExemploVetores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExemploVetores.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,16 +26,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "JonathanBrunetto05"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;JonathanBrunetto05&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/luccasmorcego/AprendendoVetores.git",
-    "accountId": "b76756d2-b946-42a2-bff7-ac3fd380170b"
+    "accountId": "7ecb4525-ee26-44c4-a8a5-3ac369d88ec4"
   }
 }]]></component>
   <component name="ProjectColorInfo">{
@@ -51,6 +53,10 @@
   "keyToString": {
     "Application.ExemploVetores.executor": "Run",
     "Application.Vetores1.executor": "Run",
+    "Application.Vetores2.executor": "Run",
+    "Application.Vetores3.executor": "Run",
+    "Application.Vetores4.executor": "Run",
+    "Application.Vetores5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -66,8 +72,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.387" />
-        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.387" />
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.419" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.419" />
       </set>
     </attachedChunks>
   </component>
@@ -81,6 +87,7 @@
       <updated>1725489779721</updated>
       <workItem from="1725489780767" duration="34000" />
       <workItem from="1725489820755" duration="3554000" />
+      <workItem from="1725807055731" duration="2414000" />
     </task>
     <task id="LOCAL-00001" summary="save">
       <option name="closed" value="true" />
